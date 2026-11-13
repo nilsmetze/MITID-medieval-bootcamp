@@ -54,8 +54,6 @@ function draw() {
             fill("green");
         }
 
-        circle(target.x, target.y, target.d);
-
-       
+        circle(target.x, target.y, target.d);   
     }
 }
